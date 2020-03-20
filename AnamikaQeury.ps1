@@ -4,7 +4,6 @@ $TenantId = '72f988bf-86f1-41af-91ab-2d7cd011db47'
 $SubscriptionId = '6b991466-448b-4d86-8e6b-26f29920d721'
 $ResourceGroupName = 'avresourcegci'
 $AlertCategory = 'Alertibiza'
-$SaveToDirectory =  'c:\temp'
 
 Set-AzureRMContext -SubscriptionId $SubscriptionId
 
